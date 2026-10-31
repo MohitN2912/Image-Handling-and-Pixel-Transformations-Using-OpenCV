@@ -36,13 +36,13 @@ Split the image  into B, G, R components and display the channels
 
   ### Ex. No. 01
 
-#### 1. Read the image ('parrot.jpg') using OpenCV imread() as a grayscale image.
+#### 1. Read the image ('parrot.png') using OpenCV imread() as a grayscale image.
 ```python
 import cv2
 import numpy as np
 import matplotlib.pyplot as plt
 
-img = cv2.imread("parrot.jpg", cv2.IMREAD_GRAYSCALE)
+img = cv2.imread("parrot.png", cv2.IMREAD_GRAYSCALE)
 ```
 
 #### 2. Print the image width, height & Channel.
@@ -113,9 +113,9 @@ plt.axis("off")
 plt.show()
 ```
 
-#### 10. Read in the image ('waterfall.jpg').
+#### 10. Read in the image ('waterfall.png').
 ```python
-img2 = cv2.imread("waterfall.jpg")
+img2 = cv2.imread("waterfall.png")
 img2 = cv2.cvtColor(img2, cv2.COLOR_BGR2RGB)
 ```
 
@@ -149,9 +149,9 @@ plt.axis("off")
 plt.show()
 ```
 
-#### 14. Read the image ('tiger.jpg').
+#### 14. Read the image ('animal.png').
 ```python
-img = cv2.imread("tiger.jpg")
+img = cv2.imread("animal.png")
 ```
 
 #### 15. Adjust the brightness of the image.
@@ -224,7 +224,7 @@ plt.axis("off")
 plt.show()
 ```
 
-#### 20. Split the image (tiger.jpg) into the B,G,R components & Display the channels.
+#### 20. Split the image (animal.png) into the B,G,R components & Display the channels.
 ```python
 b,g,r = cv2.split(img)
 
@@ -302,8 +302,8 @@ plt.title("Merged HSV")
 
 plt.show()
 
-img1 = cv2.imread("parrot.jpg")
-img2 = cv2.imread("tiger.jpg")
+img1 = cv2.imread("parrot.png")
+img2 = cv2.imread("animal.png")
 
 img2 = cv2.resize(img2, (img1.shape[1], img1.shape[0]))
 

@@ -31,8 +31,8 @@ Display the original, lower contrast, and higher contrast images.
 Split the image  into B, G, R components and display the channels
 
 ## Program Developed By:
-- **Name:** JINITH KUMAR V  
-- **Register Number:** 212225040157
+- **Name:** MOHIT N  
+- **Register Number:** 212225040255
 
   ### Ex. No. 01
 

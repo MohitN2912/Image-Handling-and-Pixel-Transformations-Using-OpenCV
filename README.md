@@ -333,10 +333,55 @@ plt.show()
 ```
 
 ## Output:
-- **i)** Read and Display an Image.  
-- **ii)** Adjust Image Brightness.  
-- **iii)** Modify Image Contrast.  
+- **i)** Read and Display an Image.
+
+<img width="507" height="580" alt="image" src="https://github.com/user-attachments/assets/b87451a6-31ea-4e53-9513-a9541eab9965" />
+
+<img width="362" height="452" alt="image" src="https://github.com/user-attachments/assets/f2d34902-d23f-4678-a88c-c5368dadeb87" />
+
+<img width="512" height="571" alt="image" src="https://github.com/user-attachments/assets/1e8e1865-dadb-445e-845a-7ca835e57175" />
+
+<img width="548" height="562" alt="image" src="https://github.com/user-attachments/assets/c740f12e-b851-415c-9aa1-b2f7912067c3" />
+
+<img width="525" height="567" alt="image" src="https://github.com/user-attachments/assets/a567b8bb-3015-4e60-9788-4d7776da5b06" />
+
+<img width="637" height="581" alt="image" src="https://github.com/user-attachments/assets/1bd4968b-c81f-4a58-852d-6bd25f13ccec" />
+
+
+
+- **ii)** Adjust Image Brightness.
+
+<img width="1356" height="335" alt="image" src="https://github.com/user-attachments/assets/f45a081a-3423-4d66-88d4-9d7711f2a661" />
+
+<img width="1393" height="273" alt="image" src="https://github.com/user-attachments/assets/3e469cdc-162c-4159-a37b-31ab1604af42" />
+
+<img width="1360" height="352" alt="image" src="https://github.com/user-attachments/assets/77c9a0dd-c0ba-44df-af25-208d29cd80b2" />
+
+<img width="998" height="378" alt="image" src="https://github.com/user-attachments/assets/b13f37ba-7e97-4df0-9843-e36fb4aa05cc" />
+
+
+
+- **iii)** Modify Image Contrast.
+
+<img width="1375" height="360" alt="image" src="https://github.com/user-attachments/assets/3833325a-c080-42cc-b665-75a467a5737b" />
+
+<img width="981" height="363" alt="image" src="https://github.com/user-attachments/assets/0bf0566b-4064-449b-976b-a25369ece985" />
+
+<img width="682" height="426" alt="image" src="https://github.com/user-attachments/assets/7fde7c75-ec14-4551-8165-f4cfee43bda5" />
+
+
+
+
+
+
 - **iv)** Generate Third Image Using Bitwise Operations.
+
+<img width="682" height="435" alt="image" src="https://github.com/user-attachments/assets/4b131b5b-feb7-4965-9d26-182f0d309893" />
+
+
+
+
+
 
 ## Result:
 Thus, the images were read, displayed, brightness and contrast adjustments were made, and bitwise operations were performed successfully using the Python program.
